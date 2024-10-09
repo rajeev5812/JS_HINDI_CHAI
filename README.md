@@ -1,2 +1,2 @@
-# JS_HINDI_CHAI
+# JS_HINDI_Youtube
 Its perquisite course for React JS purpose 
